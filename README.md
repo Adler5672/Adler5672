@@ -32,11 +32,11 @@
   <a><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"></a>
   &emsp;
   <a>
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript">
+    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&style=for-the-badge&logo=assemblyscript">
   </a>
 </p>
 
