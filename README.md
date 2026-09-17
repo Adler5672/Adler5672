@@ -16,13 +16,13 @@
 
 ## 🔥 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adler5672"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Adler5672"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adler5672&theme=dark&hide_border=false"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?user=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 ## 🛠️ My Skills
@@ -75,7 +75,7 @@
 
 ### 👉 Software & Tools
 <p align="left">
-  <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   &emsp;
