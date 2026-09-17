@@ -16,13 +16,13 @@
 
 ## 🔥 Github Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Adler5672"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Adler5672&theme=dark"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adler5672&theme=dark&hide_border=false"/>
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?user=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adler5672&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 ## 🛠️ My Skills
@@ -42,11 +42,11 @@
 
 ### 👉 Frameworks and Libraries
 <p align="left">
-  <a href="https://www.qt.io" target="_blank">
+  <a href="https://www.qt.io">
     <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.vulkan.org" target="_blank">
+  <a href="https://www.vulkan.org">
     <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white">
   </a>
   &emsp;
