@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Multimedia/Audio+Software+Developer;center=true&width=500&height=50">
   </a>
 </p>
 <hr/>
@@ -31,27 +31,27 @@
 <p align="left">
   <a><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"></a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+  <a>
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <a>
+    <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript">
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Frameworks and Libraries
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
+  <a href="https://www.qt.io" target="_blank">
+    <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge">
+  <a href="https://www.vulkan.org" target="_blank">
+    <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white">
   </a>
   &emsp;
-  <a href="https://tailwindcss.com/">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge"/>
+  <a href="https://www.juce.com">
+    <img alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white"/>
   </a>
 </p>
 
@@ -96,9 +96,9 @@
 ### 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="mailto:adlerartsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail"/></a>
-  <a href="https://github.com/Adstart5672"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub"/></a>
+  <a href="https://github.com/Adler5672"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub"/></a>
   <a href="https://x.com/AdlerArt18"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X"/></a>
-  <a href="https://www.instagram.com/adlerartsj?igsh=M2h5Nmk2M2xyNWd3"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/adlerr5672?igsh=M2h5Nmk2M2xyNWd3"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram"/></a>
   <a href="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" alt="Youtube"/></a>
 </p>
 
