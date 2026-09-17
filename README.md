@@ -45,11 +45,9 @@
   <a href="https://www.qt.io">
     <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   </a>
-  &emsp;
   <a href="https://www.vulkan.org">
     <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-%23AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white">
   </a>
-  &emsp;
   <a href="https://www.juce.com">
     <img alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white"/>
   </a>
@@ -75,7 +73,7 @@
 
 ### 👉 Software & Tools
 <p align="left">
-  <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
+  <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   &emsp;
